@@ -1,26 +1,31 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
-    "net8.0-windows7.0": {}
+    "net8.0-windows": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-windows7.0": []
+    "net8.0-windows": []
   },
   "packageFolders": {
-    "C:\\Users\\Zejd Avdic\\.nuget\\packages\\": {}
+    "C:\\Users\\Hugo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Zejd Avdic\\Desktop\\Dripcode\\University\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
+      "projectUniqueName": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
       "projectName": "Group19_Lab2_Winforms_Oosu",
-      "projectPath": "C:\\Users\\Zejd Avdic\\Desktop\\Dripcode\\University\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
-      "packagesPath": "C:\\Users\\Zejd Avdic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Zejd Avdic\\Desktop\\Dripcode\\University\\Group19_Lab2_Winforms_Oosu\\obj\\",
+      "projectPath": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
+      "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Zejd Avdic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -31,7 +36,8 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows7.0": {
+        "net8.0-windows": {
+          "framework": "net8.0-windows7.0",
           "targetAlias": "net8.0-windows",
           "projectReferences": {}
         }
@@ -46,10 +52,11 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
-      "net8.0-windows7.0": {
+      "net8.0-windows": {
+        "framework": "net8.0-windows7.0",
         "targetAlias": "net8.0-windows",
         "imports": [
           "net461",
@@ -70,7 +77,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
