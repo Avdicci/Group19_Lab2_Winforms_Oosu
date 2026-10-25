@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj": {}
+    "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj": {
+    "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
+        "projectUniqueName": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
         "projectName": "Group19_Lab2_Winforms_Oosu",
-        "projectPath": "c:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
+        "projectPath": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
         "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\obj\\",
+        "outputPath": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
