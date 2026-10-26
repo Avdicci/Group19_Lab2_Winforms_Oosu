@@ -1,25 +1,25 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
+using Group19_Lab2_Winforms_Oosu.Models;
+using Group19_Lab2_Winforms_Oosu.Services;
 
 namespace Group19_Lab2_Winforms_Oosu
 {
     public partial class Form2 : Form
     {
-        public Form2()
+        private SystemController _controller;
+        private Student _inloggadStudent;
+
+        // Här tar Form2 emot datan från Form1
+        public Form2(SystemController controller, Student inloggadStudent)
         {
             InitializeComponent();
+            _controller = controller;
+            _inloggadStudent = inloggadStudent;
+
+            label3.Text = $"Inloggad som: {_inloggadStudent.Namn}";
         }
 
-        private void listView1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
+        // ... resten av koden ...
     }
 }
