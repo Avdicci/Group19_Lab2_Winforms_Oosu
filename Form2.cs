@@ -49,7 +49,14 @@ namespace Group19_Lab2_Winforms_Oosu
         }
         private void button4_Click(object sender, EventArgs e)
         {
+            MessageBox.Show("Du loggas nu ut.");
 
+            // Öppna startmenyn igen och skicka med controllern
+            Meny startMeny = new Meny(_controller);
+            startMeny.Show();
+
+            // Stäng den nuvarande menyn
+            this.Close();
         }
     }
 }
