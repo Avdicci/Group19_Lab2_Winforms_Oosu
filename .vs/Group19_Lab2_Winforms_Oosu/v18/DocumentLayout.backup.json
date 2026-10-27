@@ -3,28 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87CF5841-2CE8-4FAF-9EE3-5AFC8A02F597}|Group19_Lab2_Winforms_Oosu.csproj|c:\\users\\hugo\\documents\\github\\group19_lab2_winforms_oosu\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,11 +62,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:31:32.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:31:08.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:29:17.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form5.cs [Design]",
+              "RelativeToolTip": "Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:27:16.272Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form4.cs [Design]",
+              "RelativeToolTip": "Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:27:07.09Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T15:26:59.494Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
@@ -50,31 +153,29 @@
               "RelativeToolTip": "Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T15:15:24.865Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T15:15:24.865Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "controller.cs",
               "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\controller.cs",
               "RelativeDocumentMoniker": "controller.cs",
               "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\controller.cs",
               "RelativeToolTip": "controller.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA9wBcAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-26T15:04:32.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-26T15:04:32.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
               "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form2.cs",
               "RelativeToolTip": "Form2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwC8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-25T18:32:20.281Z",
               "EditorCaption": ""
@@ -82,18 +183,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T18:31:49.447Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Form2.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -105,29 +194,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T18:31:49.447Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAswFkAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-25T17:22:35.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-25T17:18:17.099Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-25T17:18:17.099Z"
             }
           ]
         }

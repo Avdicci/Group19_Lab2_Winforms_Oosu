@@ -13,7 +13,7 @@ namespace Group19_Lab2_Winforms_Oosu.Services
         {
             studenter = new List<Student>();
 
-            // Fyll systemet med testdata direkt vid start
+            // Fyll systemet med testdata
             FyllMedTestData();
         }
 
@@ -24,12 +24,12 @@ namespace Group19_Lab2_Winforms_Oosu.Services
             RegistreraStudent("Admin"); // testdata
         }
 
-        // Metod för att logga in (hitta befintlig student)
+        // Metod för att logga in
         public Student HittaStudent(string namn)
         {
             foreach (Student s in studenter)
             {
-                // Jämför oberoende av stora/små bokstäver
+                // stora/små bokstäver
                 if (s.Namn.ToLower() == namn.ToLower())
                 {
                     return s;
@@ -38,7 +38,7 @@ namespace Group19_Lab2_Winforms_Oosu.Services
             return null; // Returnerar null om studenten inte finns
         }
 
-        // Metod för att registrera ny student
+        // registrera ny student
         public bool RegistreraStudent(string namn)
         {
             // Kontrollera så namnet inte redan är upptaget

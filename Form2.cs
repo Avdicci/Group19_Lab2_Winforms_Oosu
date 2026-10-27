@@ -20,6 +20,36 @@ namespace Group19_Lab2_Winforms_Oosu
             label3.Text = $"Inloggad som: {_inloggadStudent.Namn}";
         }
 
-        // ... resten av koden ...
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form3 f3 = new Form3(_controller, _inloggadStudent);
+            f3.Show();
+            this.Hide();
+        }
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form4 f4 = new Form4(_controller, _inloggadStudent);
+            f4.Show();
+            this.Hide();
+        }
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form5 f5 = new Form5(_controller, _inloggadStudent);
+            f5.Show();
+            this.Hide();
+        }
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

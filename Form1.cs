@@ -38,7 +38,7 @@ namespace Group19_Lab2_Winforms_Oosu
         // Logga in (button1)
         private void button1_Click(object sender, EventArgs e)
         {
-            // .Trim() tar bort eventuella råkade mellanslag före/efter namnet
+            
             string inmatatNamn = textBox1.Text.Trim();
 
             // Kontrollera att fältet inte är tomt
@@ -54,7 +54,7 @@ namespace Group19_Lab2_Winforms_Oosu
             {
                 MessageBox.Show($"Välkommen tillbaka, {inloggadStudent.Namn}!");
 
-                // Öppna Form2 och skicka med användaren
+                // Öppna Form2
                 Form2 f2 = new Form2(_controller, inloggadStudent);
                 f2.Show();
                 this.Hide();
@@ -65,7 +65,7 @@ namespace Group19_Lab2_Winforms_Oosu
             }
         }
 
-        // Registrera (button2)
+        // Registrera
         private void button2_Click(object sender, EventArgs e)
         {
             string nyttNamn = textBox2.Text.Trim();
@@ -83,10 +83,10 @@ namespace Group19_Lab2_Winforms_Oosu
             {
                 MessageBox.Show($"Konto skapat! Välkommen {nyttNamn}.");
 
-                // Hämta det nyskapade studentobjektet från databasen
+                // Hämta studentobjektet från databasen
                 Student inloggadStudent = _controller.HittaStudent(nyttNamn);
 
-                // Öppna Form2 direkt efter registreringen
+                // Öppna Form2
                 Form2 f2 = new Form2(_controller, inloggadStudent);
                 f2.Show();
                 this.Hide();
