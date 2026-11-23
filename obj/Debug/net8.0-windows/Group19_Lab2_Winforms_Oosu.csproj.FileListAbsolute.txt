@@ -17,3 +17,6 @@ C:\Users\Hugo\Documents\GitHub\Group19_Lab2_Winforms_Oosu\obj\Debug\net8.0-windo
 C:\Users\Hugo\Documents\GitHub\Group19_Lab2_Winforms_Oosu\obj\Debug\net8.0-windows\Group19_.18694E1C.Up2Date
 C:\Users\Hugo\Documents\GitHub\Group19_Lab2_Winforms_Oosu\obj\Debug\net8.0-windows\Group19_Lab2_Winforms_Oosu.Meny.resources
 C:\Users\Hugo\Documents\GitHub\Group19_Lab2_Winforms_Oosu\obj\Debug\net8.0-windows\Group19_Lab2_Winforms_Oosu.Form2.resources
+C:\Users\Hugo\Documents\GitHub\Group19_Lab2_Winforms_Oosu\obj\Debug\net8.0-windows\Group19_Lab2_Winforms_Oosu.Form3.resources
+C:\Users\Hugo\Documents\GitHub\Group19_Lab2_Winforms_Oosu\obj\Debug\net8.0-windows\Group19_Lab2_Winforms_Oosu.Form4.resources
+C:\Users\Hugo\Documents\GitHub\Group19_Lab2_Winforms_Oosu\obj\Debug\net8.0-windows\Group19_Lab2_Winforms_Oosu.Form5.resources
