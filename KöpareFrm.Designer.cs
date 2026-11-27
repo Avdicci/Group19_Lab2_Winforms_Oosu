@@ -1,6 +1,6 @@
 ﻿namespace Group19_Lab2_Winforms_Oosu
 {
-    partial class Form3
+    partial class KöpareFrm
     {
         /// <summary>
         /// Required designer variable.

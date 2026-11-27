@@ -55,7 +55,7 @@ namespace Group19_Lab2_Winforms_Oosu
                 MessageBox.Show($"Välkommen tillbaka, {inloggadStudent.Namn}!");
 
                 // Öppna Form2
-                Form2 f2 = new Form2(_controller, inloggadStudent);
+                MenuFrm f2 = new MenuFrm(_controller, inloggadStudent);
                 f2.Show();
                 this.Hide();
             }
@@ -87,7 +87,7 @@ namespace Group19_Lab2_Winforms_Oosu
                 Student inloggadStudent = _controller.HittaStudent(nyttNamn);
 
                 // Öppna Form2
-                Form2 f2 = new Form2(_controller, inloggadStudent);
+                MenuFrm f2 = new MenuFrm(_controller, inloggadStudent);
                 f2.Show();
                 this.Hide();
             }

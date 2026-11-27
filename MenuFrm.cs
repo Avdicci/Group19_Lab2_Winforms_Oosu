@@ -5,13 +5,13 @@ using Group19_Lab2_Winforms_Oosu.Services;
 
 namespace Group19_Lab2_Winforms_Oosu
 {
-    public partial class Form2 : Form
+    public partial class MenuFrm : Form
     {
         private SystemController _controller;
         private Student _inloggadStudent;
 
         // Här tar Form2 emot datan från Form1
-        public Form2(SystemController controller, Student inloggadStudent)
+        public MenuFrm(SystemController controller, Student inloggadStudent)
         {
             InitializeComponent();
             _controller = controller;
@@ -32,21 +32,21 @@ namespace Group19_Lab2_Winforms_Oosu
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            Form3 f3 = new Form3(_controller, _inloggadStudent);
+            KöpareFrm f3 = new KöpareFrm(_controller, _inloggadStudent);
             f3.Show();
             this.Hide();
         }
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-            Form4 f4 = new Form4(_controller, _inloggadStudent);
+            SäljareFrm f4 = new SäljareFrm(_controller, _inloggadStudent);
             f4.Show();
             this.Hide();
         }
 
         private void button3_Click_1(object sender, EventArgs e)
         {
-            Form5 f5 = new Form5(_controller, _inloggadStudent);
+            InställningarFrm f5 = new InställningarFrm(_controller, _inloggadStudent);
             f5.Show();
             this.Hide();
         }
@@ -61,6 +61,11 @@ namespace Group19_Lab2_Winforms_Oosu
 
             // Stäng den nuvarande menyn
             this.Close();
+        }
+
+        private void Form2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

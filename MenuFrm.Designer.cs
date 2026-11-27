@@ -1,6 +1,6 @@
 ﻿namespace Group19_Lab2_Winforms_Oosu
 {
-    partial class Form2
+    partial class MenuFrm
     {
         /// <summary>
         /// Required designer variable.
@@ -140,6 +140,7 @@
             Controls.Add(label1);
             Name = "Form2";
             Text = "Form2";
+            Load += Form2_Load;
             ResumeLayout(false);
             PerformLayout();
         }

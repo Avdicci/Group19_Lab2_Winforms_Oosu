@@ -6,29 +6,38 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Reflection.Emit;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace Group19_Lab2_Winforms_Oosu
 {
-    public partial class Form5 : Form
+    public partial class KöpareFrm : Form
     {
-        public Form5()
+        public KöpareFrm()
         {
             InitializeComponent();
         }
         private SystemController _controller;
         private Student _inloggadStudent;
 
-        // Här tar Form5 emot datan från Form1
-        public Form5(SystemController controller, Student inloggadStudent)
+        // Här tar Form3 emot datan från Form1
+        public KöpareFrm(SystemController controller, Student inloggadStudent)
         {
             InitializeComponent();
             _controller = controller;
             _inloggadStudent = inloggadStudent;
+
+
         }
-        private void Form5_Load(object sender, EventArgs e)
+
+        private void Form3_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
         {
 
         }

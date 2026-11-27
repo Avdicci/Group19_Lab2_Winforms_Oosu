@@ -12,9 +12,9 @@ using System.Windows.Forms;
 
 namespace Group19_Lab2_Winforms_Oosu
 {
-    public partial class Form4 : Form
+    public partial class SäljareFrm : Form
     {
-        public Form4()
+        public SäljareFrm()
         {
             InitializeComponent();
         }
@@ -22,7 +22,7 @@ namespace Group19_Lab2_Winforms_Oosu
         private Student _inloggadStudent;
 
         // Här tar Form4 emot datan från Form1
-        public Form4(SystemController controller, Student inloggadStudent)
+        public SäljareFrm(SystemController controller, Student inloggadStudent)
         {
             InitializeComponent();
             _controller = controller;

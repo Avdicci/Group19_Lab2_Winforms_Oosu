@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Group19_Lab2_Winforms_Oosu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8b46d5120f921589d4030337ae9ea1408369dd4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c64bc03bbe8497913ae5f856518fcb1465f0c06f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Group19_Lab2_Winforms_Oosu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Group19_Lab2_Winforms_Oosu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

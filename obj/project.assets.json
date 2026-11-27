@@ -1,30 +1,30 @@
 {
-  "version": 4,
+  "version": 3,
   "targets": {
-    "net8.0-windows": {}
+    "net8.0-windows7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0-windows": []
+    "net8.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Hugo\\.nuget\\packages\\": {},
+    "C:\\Users\\King Mushroom\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
+      "projectUniqueName": "C:\\Users\\King Mushroom\\Desktop\\Dripcode\\University\\Oosu\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
       "projectName": "Group19_Lab2_Winforms_Oosu",
-      "projectPath": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
-      "packagesPath": "C:\\Users\\Hugo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hugo\\Documents\\GitHub\\Group19_Lab2_Winforms_Oosu\\obj\\",
+      "projectPath": "C:\\Users\\King Mushroom\\Desktop\\Dripcode\\University\\Oosu\\Group19_Lab2_Winforms_Oosu\\Group19_Lab2_Winforms_Oosu.csproj",
+      "packagesPath": "C:\\Users\\King Mushroom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\King Mushroom\\Desktop\\Dripcode\\University\\Oosu\\Group19_Lab2_Winforms_Oosu\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Hugo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\King Mushroom\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -36,8 +36,7 @@
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net8.0-windows": {
-          "framework": "net8.0-windows7.0",
+        "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {}
         }
@@ -52,11 +51,10 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "10.0.400"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
-      "net8.0-windows": {
-        "framework": "net8.0-windows7.0",
+      "net8.0-windows7.0": {
         "targetAlias": "net8.0-windows",
         "imports": [
           "net461",
@@ -77,7 +75,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

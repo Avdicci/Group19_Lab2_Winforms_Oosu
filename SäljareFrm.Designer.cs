@@ -1,6 +1,6 @@
 ﻿namespace Group19_Lab2_Winforms_Oosu
 {
-    partial class Form5
+    partial class SäljareFrm
     {
         /// <summary>
         /// Required designer variable.
@@ -34,21 +34,21 @@
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 19);
+            label1.Location = new Point(12, 25);
             label1.Name = "label1";
-            label1.Size = new Size(104, 15);
+            label1.Size = new Size(127, 15);
             label1.TabIndex = 0;
-            label1.Text = "Hantera ditt konto";
+            label1.Text = "Hantera dina annonser";
             // 
-            // Form5
+            // Form4
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
-            Name = "Form5";
-            Text = "Form5";
-            Load += Form5_Load;
+            Name = "Form4";
+            Text = "Form4";
+            Load += Form4_Load;
             ResumeLayout(false);
             PerformLayout();
         }
