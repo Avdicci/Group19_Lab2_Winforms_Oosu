@@ -28,34 +28,58 @@
         /// </summary>
         private void InitializeComponent()
         {
-            label1 = new Label();
+            listBoxAnnonser = new ListBox();
+            btnReservera = new Button();
+            btnTillbaka = new Button();
             SuspendLayout();
-            // 
-            // label1
-            // 
-            label1.AutoSize = true;
-            label1.Location = new Point(38, 26);
-            label1.Name = "label1";
-            label1.Size = new Size(99, 15);
-            label1.TabIndex = 0;
-            label1.Text = "Reservera annons";
-            label1.Click += label1_Click;
-            // 
+            //
+            // listBoxAnnonser
+            //
+            listBoxAnnonser.FormattingEnabled = true;
+            listBoxAnnonser.ItemHeight = 15;
+            listBoxAnnonser.Location = new Point(12, 12);
+            listBoxAnnonser.Name = "listBoxAnnonser";
+            listBoxAnnonser.Size = new Size(774, 334);
+            listBoxAnnonser.TabIndex = 0;
+            //
+            // btnReservera
+            //
+            btnReservera.Location = new Point(12, 365);
+            btnReservera.Name = "btnReservera";
+            btnReservera.Size = new Size(120, 30);
+            btnReservera.TabIndex = 1;
+            btnReservera.Text = "Reservera";
+            btnReservera.UseVisualStyleBackColor = true;
+            btnReservera.Click += btnReservera_Click;
+            //
+            // btnTillbaka
+            //
+            btnTillbaka.Location = new Point(447, 365);
+            btnTillbaka.Name = "btnTillbaka";
+            btnTillbaka.Size = new Size(125, 30);
+            btnTillbaka.TabIndex = 2;
+            btnTillbaka.Text = "Tillbaka";
+            btnTillbaka.UseVisualStyleBackColor = true;
+            btnTillbaka.Click += btnTillbaka_Click;
+            //
             // KöpareFrm
-            // 
+            //
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
-            Controls.Add(label1);
+            ClientSize = new Size(831, 413);
+            Controls.Add(btnTillbaka);
+            Controls.Add(btnReservera);
+            Controls.Add(listBoxAnnonser);
             Name = "KöpareFrm";
-            Text = "Resevera";
-            Load += Form3_Load;
+            Text = "Köpare";
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private Label label1;
+        private ListBox listBoxAnnonser;
+        private Button btnReservera;
+        private Button btnTillbaka;
     }
 }

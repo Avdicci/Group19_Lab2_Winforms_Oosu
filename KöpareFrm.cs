@@ -15,31 +15,53 @@ namespace Group19_Lab2_Winforms_Oosu
 {
     public partial class KöpareFrm : Form
     {
-        public KöpareFrm()
-        {
-            InitializeComponent();
-        }
         private SystemController _controller;
         private Student _inloggadStudent;
 
-        // Här tar Form3 emot datan från Form1
         public KöpareFrm(SystemController controller, Student inloggadStudent)
         {
             InitializeComponent();
             _controller = controller;
             _inloggadStudent = inloggadStudent;
 
-
+            UppdateraAnnonsLista();
         }
 
-        private void Form3_Load(object sender, EventArgs e)
+        private void UppdateraAnnonsLista()
         {
-
+            listBoxAnnonser.Items.Clear();
+            foreach (Annons annons in _controller.HämtaAllaAnnonser())
+            {
+                listBoxAnnonser.Items.Add(annons);
+            }
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void btnReservera_Click(object sender, EventArgs e)
         {
+            // Hämta det markerade Annons-objektet direkt från listan
+            Annons valdAnnons = listBoxAnnonser.SelectedItem as Annons;
 
+            if (valdAnnons == null)
+            {
+                MessageBox.Show("Markera en annons i listan först.");
+                return;
+            }
+
+            bool lyckades = _controller.ReserveraAnnons(valdAnnons, _inloggadStudent, out string svar);
+            MessageBox.Show(svar);
+
+            if (lyckades)
+            {
+                // Ladda om listan så att statusen ändras från [Till salu] till [Reserverad]
+                UppdateraAnnonsLista();
+            }
+        }
+
+        private void btnTillbaka_Click(object sender, EventArgs e)
+        {
+            MenuFrm meny = new MenuFrm(_controller, _inloggadStudent);
+            meny.Show();
+            this.Close();
         }
     }
 }
