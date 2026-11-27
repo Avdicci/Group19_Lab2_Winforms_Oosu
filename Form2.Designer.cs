@@ -102,6 +102,7 @@
             button2.TabIndex = 6;
             button2.Text = "2";
             button2.UseVisualStyleBackColor = true;
+            button2.Click += button2_Click_1;
             // 
             // button3
             // 
@@ -111,6 +112,7 @@
             button3.TabIndex = 7;
             button3.Text = "3";
             button3.UseVisualStyleBackColor = true;
+            button3.Click += button3_Click_1;
             // 
             // button4
             // 
@@ -120,6 +122,7 @@
             button4.TabIndex = 8;
             button4.Text = "4";
             button4.UseVisualStyleBackColor = true;
+            button4.Click += button4_Click_1;
             // 
             // Form2
             // 
