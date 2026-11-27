@@ -40,14 +40,14 @@
             label1.TabIndex = 0;
             label1.Text = "Hantera dina annonser";
             // 
-            // Form4
+            // SäljareFrm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
-            Name = "Form4";
-            Text = "Form4";
+            Name = "SäljareFrm";
+            Text = "Hantera annons";
             Load += Form4_Load;
             ResumeLayout(false);
             PerformLayout();

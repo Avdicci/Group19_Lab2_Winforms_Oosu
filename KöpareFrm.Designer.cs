@@ -41,14 +41,14 @@
             label1.Text = "Reservera annons";
             label1.Click += label1_Click;
             // 
-            // Form3
+            // KöpareFrm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
-            Name = "Form3";
-            Text = "Form3";
+            Name = "KöpareFrm";
+            Text = "Resevera";
             Load += Form3_Load;
             ResumeLayout(false);
             PerformLayout();

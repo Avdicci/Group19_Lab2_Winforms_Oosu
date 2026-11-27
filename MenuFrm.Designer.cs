@@ -124,7 +124,7 @@
             button4.UseVisualStyleBackColor = true;
             button4.Click += button4_Click_1;
             // 
-            // Form2
+            // MenuFrm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -138,8 +138,8 @@
             Controls.Add(label3);
             Controls.Add(label2);
             Controls.Add(label1);
-            Name = "Form2";
-            Text = "Form2";
+            Name = "MenuFrm";
+            Text = "Meny";
             Load += Form2_Load;
             ResumeLayout(false);
             PerformLayout();

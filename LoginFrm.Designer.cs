@@ -121,7 +121,7 @@
             Controls.Add(label1);
             Controls.Add(textBox1);
             Name = "Meny";
-            Text = "Meny";
+            Text = "Login";
             Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();

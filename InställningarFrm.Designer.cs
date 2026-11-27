@@ -40,14 +40,14 @@
             label1.TabIndex = 0;
             label1.Text = "Hantera ditt konto";
             // 
-            // Form5
+            // InställningarFrm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
             Controls.Add(label1);
-            Name = "Form5";
-            Text = "Form5";
+            Name = "InställningarFrm";
+            Text = "Inställningar";
             Load += Form5_Load;
             ResumeLayout(false);
             PerformLayout();
